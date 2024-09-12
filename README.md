@@ -1,2 +1,10 @@
-# humpback
-I am planning to publish small projects in the area of machine learning, developed from courses and sporadic studies, with the aim of sharing knowledge and contributing to the community in a collaborative way.
+<div align="center">
+  <h1>🗣️ Machine Learning Course</h1>
+</div>
+<br/>
+
+
+## A list of notebooks and articles related to machine learning
+| Course | Repository | Description | Notebook |
+|--------|------------|-------------|----------|
+|zzzzzz  | zzzzzzzzzz |zzzzzzzzzzzz  | z  | 
