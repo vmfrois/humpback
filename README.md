@@ -5,6 +5,6 @@
 
 
 ## A list of notebooks and articles related to machine learning
-| Course | Repository | Description | Notebook |
+| Course | Link | Description | Notebook |
 |--------|------------|-------------|----------|
-|zzzzzz  | zzzzzzzzzz |zzzzzzzzzzzz  | z  | 
+| Supervised Machine Learning: Regression and Classification  | <a href='https://www.coursera.org/learn/machine-learning'>Machine Learning</a> | É um curso focado desde os algortimos "crus" sem bibliotecas, somente matematica até a utilização de bibliotecas | x | 
